@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+
+**TO RUN LOCALLY**
+
+1) Copy the repository link. In your terminal, type `git clone ` and then paste the repository link.
+
+2) In your terminal, navigate to the directory of the repository you have just downloaded, using `cd chloe-gottlieb-vimeo`. Then type `npm start` into your terminal (this is presuming you already have npm installed). This command opens up a new tab or window in your browser.
+
+3) In the URL bar, input `http://localhost:3000`. This will take you to the site. (Your terminal may tell you a different port number after you run `npm start`. If this is the case, change the port number to the one your terminal indicated).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +77,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# vimeo-internship-code-assessment
+>>>>>>> 6098bff03aec5bd014939650a0daa8d4207c179b
